@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 46
+names: ['1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'ExcuseMe', 'F', 'Food', 'G', 'H', 'Hello', 'Help', 'House', 'I', 'I Love You', 'Internet', 'J', 'K', 'L', 'M', 'N', 'No', 'O', 'P', 'Please', 'Q', 'R', 'S', 'T', 'ThankYou', 'U', 'V', 'W', 'X', 'Y', 'Yes', 'Z']
+
+roboflow:
+  workspace: arijit-goswami-ksn6e
+  project: sign-recoginition-i1exh
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/arijit-goswami-ksn6e/sign-recoginition-i1exh/dataset/2
