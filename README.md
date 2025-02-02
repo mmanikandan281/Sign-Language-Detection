@@ -1,5 +1,8 @@
 # Sign Language Detection Model
 
+![Screenshot (39)](https://github.com/user-attachments/assets/6791a1ab-7ba3-4fb2-999f-0c57393caf1d)
+
+
 ## Overview
 This project implements a real-time sign language detection system using YOLO (You Only Look Once) for object detection. The model is trained using the Roboflow dataset and deployed for real-time sign recognition via a webcam.
 
